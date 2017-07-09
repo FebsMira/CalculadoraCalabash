@@ -1,0 +1,35 @@
+start_test_server_in_background
+query "*"
+shutdown_test_server
+exit
+start_test_server_in_background
+query "*"
+query "*"
+start_test_server_in_background
+query "*"
+shutdown_test_server
+exit
+start_test_server_in_background
+query "*"
+shutdown_test_server
+exit
+query "*"
+shutdown_test_server
+exiit
+exit
+shutdown_test_server
+exit
+start_test_server_in_background
+query "*"
+shutdown_test_server
+exit
+start_test_server_in_background
+query "*"
+query "*"
+shutdown_test_server
+exit
+start_test_server_in_background
+pan_left
+pan_right
+pan_up
+pan_down
