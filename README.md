@@ -39,7 +39,6 @@ NOTE: Consultar [CONFIGURANDO_AMBIENTE.pdf] para maiores informações
 ```ruby
 gem install bundler
 gem install calabash-android
-gem install mini_magick
 ```
 
 ### Instalando mini_magic
